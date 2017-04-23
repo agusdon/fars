@@ -1,0 +1,17 @@
+Package: fars
+Type:  Package
+Title: Analyzes data frm FARS
+Date: 2017-04-23
+Version: 0.0.0.9000
+Authors@R: Aaron Gusdon <agusdon@gmail.com> 
+Imports: dplyr, maps, readr, tidyr, magrittr
+Maintainer: Aaron Gusdon <agusdon@gmail.com>
+Description: A package of functions which import and analyze fatal accident data from each state
+Depends: R (>= 3.2.4)
+License: GPL (>=2)
+Encoding: UTF-8
+LazyData: TRUE
+RoxygenNote: 6.0.1
+URL: https://github.com/agusdon/fars
+Suggests: knitr, testthat, rmarkdown
+VignetteBuilder: knitr
