@@ -3,7 +3,7 @@ Type:  Package
 Title: Analyzes data frm FARS
 Date: 2017-04-23
 Version: 0.0.0.9000
-Authors@R: Aaron Gusdon <agusdon@gmail.com> 
+Author: Aaron Gusdon [aut,cre]
 Imports: dplyr, maps, readr, tidyr, magrittr
 Maintainer: Aaron Gusdon <agusdon@gmail.com>
 Description: A package of functions which import and analyze fatal accident data from each state
